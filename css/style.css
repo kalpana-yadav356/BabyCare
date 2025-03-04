@@ -6,7 +6,7 @@
     font-family: "Fredoka", serif;
     font-weight: 700;
     font-style: normal;
-	box-sizing: content-box !important;
+	box-sizing: border-box;
 }
 
 .main-contain {
